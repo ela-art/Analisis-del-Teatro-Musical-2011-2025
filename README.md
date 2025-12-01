@@ -1,4 +1,4 @@
-README PRINCIPAL — Proyecto: Análisis Estructural del Teatro y del Teatro Musical en España (2010–2025)
+Proyecto: Análisis Estructural del Teatro y del Teatro Musical en España (2010–2025)
 
 Proyecto de análisis del sector teatral en España con foco en tres áreas:
 Teatro (general), Teatro Musical y Turismo Cultural.
