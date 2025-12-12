@@ -1,4 +1,6 @@
-Análisis del Teatro Musical en España (2010–2025) Descripción del proyecto
+Análisis del Teatro Musical en España (2010–2025) 
+
+Descripción del proyecto
 
 Este proyecto realiza un análisis integral del teatro musical en España entre 2010 y 2025, combinando diversas fuentes públicas y datos propios. El objetivo es comprender la evolución del sector, su estructura productiva, la distribución geográfica de los musicales, los patrones de duración y el comportamiento de las obras activas frente a las finalizadas.
 
