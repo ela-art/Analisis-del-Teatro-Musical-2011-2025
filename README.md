@@ -1,50 +1,66 @@
 Análisis del Teatro Musical en España (2011–2025)
 Objetivo
 
-Este proyecto analiza la evolución del teatro musical en España entre 2011 y 2025, combinando datos de producciones, precios de entradas y hábitos de consumo con el fin de identificar patrones relevantes para la toma de decisiones culturales y de programación.
+Este proyecto analiza la evolución del teatro musical en España entre 2011 y 2025 con el objetivo de identificar patrones de producción, consumo y tendencias estructurales del sector. El análisis está orientado a aportar contexto y criterio para la toma de decisiones culturales, de programación y de negocio.
 
 Fuentes de datos
+Fuentes institucionales
 
-Carteleras y webs especializadas en teatro musical
+Anuario de Estadísticas Culturales – Ministerio de Cultura
+Datos sobre hábitos de consumo cultural y asistencia a espectáculos.
 
-Información pública de productoras
+Anuario SGAE de las Artes Escénicas
+Información agregada sobre el sector de las artes escénicas y su evolución.
 
-Datos de hábitos culturales
+Fuentes sectoriales y públicas
 
-Curación manual basada en conocimiento del sector
+Carteleras de teatro musical y webs especializadas.
+
+Información pública de productoras y teatros.
+
+Curación manual basada en conocimiento profesional del sector.
 
 Proceso de trabajo
 
-El desarrollo del proyecto ha seguido un flujo clásico de análisis de datos:
+El proyecto sigue un flujo clásico de análisis de datos:
 
 Extracción (ETL)
-Integración de múltiples fuentes (webs, archivos Excel y curación manual).
+Integración de múltiples fuentes heterogéneas (institucionales, sectoriales y curación manual).
 
 Transformación y limpieza
-Normalización de nombres, fechas y categorizaciones (género, origen, productora, teatro).
+Normalización de nombres de obras, productoras y teatros, homogeneización de fechas, categorización por género y origen, y tratamiento de valores inconsistentes.
 
 Análisis exploratorio (EDA)
-Análisis de:
+Estudio de:
 
-Producciones estrenadas por año y productora
+Estrenos de musicales por año.
 
-Evolución del sector
+Actividad por productora.
 
-Precios y hábitos de consumo
+Evolución del sector en el tiempo.
 
-Tendencias estructurales del teatro musical
+Precios de entradas y hábitos de consumo.
+
+Tendencias estructurales del teatro musical en España.
 
 Generación de datasets finales
-Creación de archivos consolidados listos para análisis y visualización.
+Creación de archivos consolidados y listos para análisis y visualización.
 
 Estructura del repositorio
 
-Notebooks: EDAs finales que explican el análisis y los hallazgos.
+Notebooks
+EDAs finales que documentan el análisis y los principales hallazgos.
 
-Data: datasets finales utilizados en dichos análisis.
+Data
+Datasets finales utilizados en dichos análisis.
 
-Los artefactos intermedios (ETL, datasets temporales y EDAs exploratorios) no se incluyen en este repositorio para mantener claridad y foco en los resultados finales.
+Los procesos intermedios (ETL, datasets temporales y EDAs exploratorios) no se incluyen en este repositorio para mantener claridad, foco y legibilidad del proyecto.
 
-Alcance
+Alcance y consideraciones
 
-El análisis se basa en una muestra representativa de producciones de teatro musical en España. El objetivo no es la exhaustividad absoluta, sino la identificación de tendencias y patrones estructurales del sector.
+El análisis se basa en una muestra representativa de producciones de teatro musical en España entre 2011 y 2025. El objetivo no es la exhaustividad absoluta, sino la identificación de patrones y tendencias relevantes del sector.
+
+Estado del proyecto
+
+Proyecto cerrado a nivel de análisis exploratorio y preparación de datos.
+Pendiente de posibles ampliaciones en visualización y storytelling.
